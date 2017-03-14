@@ -1,0 +1,109 @@
+Manœuvres de combat			
+Choisissez une manœuvre à votre tour. Un personnage Etourdi doit choisir la manœuvre "Ne Rien Faire".			
+			
+Action	Description	Mouvement	Défense
+Attaques	Attaque Supplémentaire, Feinte, Attaque Trompeuse, Attaque Prévisible, Attaque à Deux Armes, ou Attaque Rapide sont des options		
+Attaque	Faire 1 attaque	1 pas	Toute Défense Active
+Attaque Massive	Faire 2 Attaques au Corps à Corps;	1/2 Déplacement en avant; doit être avant l'attaque	Aucune Défense Active
+	ou 1 Attaque au Corps à Corps à +4 pour toucher;		
+	ou 1 Attaque au Corps à Corps à +2 aux dégâts;		
+	ou gagner 1 hex d'allonge sur une Attaque au Corps à Corps;		
+	ou faire 1 Attaque à Distance à +1;		
+	ou Feinte et faire une Attaque à Distance ;		
+	ou utiliser Tir de Suppression		
+Attaque Engagée (Committed Attack)	Faire 1 Attaque au Corps à Corps à +2 pour toucher;	1 pas; 2 pas à -2 à l'attaque	Ne peut pas se défendre avec le membre utilisé pour l'attaque et toutes les autres Défenses Actives sont à -2 Ne peut pas Reculer
+	ou 1 attaque à +1 aux dégâts		
+Attaque Défensive	Faire 1 Attaque au Corps à Corps à -2 aux dégâts	1 pas	Toute Défense Active; +1 à Parade ou Blocage;
+			ou Parade avec une arme U (déséquilibrée)
+Défense Massive	Aucune attaque	1 pas (Parade ou Blocage); ou 1/2 Déplacement (Esquive)	Toute Défense Active; +2 à Esquive ou Parade ou Blocage;
+			ou 2 Défense Actives contre une seule attaque
+Attaques en mouvement	Attaque Supplémentaire, Attaque Trompeuse, Attaque Prévisible, ou Attaque à Deux Armes sont des options		
+Attaque Mobile (Corps à Corps)	Pendant un Déplacement, une attaque à -4 avec une compétence maximum de 9	Déplacement Complet; peut attaquer à n'importe quel moment	Blocage ou Esquive; Ne peut pas Reculer
+Attaque Mobile (à Distance)	Déplacement et 1 Attaque à Distance avec l'Encombrement (bulk) de l'arme en tant que pénalité	Déplacement Complet; peut attaquer à n'importe quel moment	Blocage ou Esquive; Ne peut pas Reculer
+Attaque Mobile (Slam)	Déplacement et impact avec une cible en faisant un test d'attaque avec DX, Brawling, Shield, ou Sumo Wrestling	Déplacement Complet et attaque à la fin	Blocage ou Esquive; Ne peut pas Reculer
+Attaque Mobile Massive (Slam)	Déplacement et impact avec une cible en faisant un test d'attaque avec DX, Brawling, Shield, ou Sumo Wrestling; bonus de +4 ou Feinte et attaque ou +2 aux dégâts	Déplacement Complet et attaque à la fin	Aucune Défense Active
+Mouvement			
+Déplacement	Déplacement sans attaque	Déplacement complet	Toute Défense Active
+Changement de Posture	Passer de debout à assis, agenouillé, rampant ou couché	Aucun déplacement	Toute Défense Active
+	ou Passer de assis, agenouillé ou rampant à debout ou couché		
+	ou Passer de couché à assis, agenouillé ou rampant		
+Préparations			
+Préparer	Prépare une arme ou un objet pour qu'il puisse être utilisé	Pas	Toute Défense Active
+Viser	Règle maison: +2 cumulatif pour toucher une cible précise avec une arme à distance, comme pour la manoeuvre Viser originale, jusqu'à un maximum de Acc+2, ou Acc+6 si l'arme est sur un support.	Pas	Toute Défense Active, mais perte du bonus
+	Règle officielle: bonus de +Acc pour toucher une cible spécifique avec une arme à distance. Chaque manoeuvre successive augmente le bonus de +1, jusqu'à un maximum de Acc + 1, ou Acc + 2 si l'arme est sur un support.		
+Evaluer	Règle maison: +2 cumulatif pour toucher une cible précise avec une arme de Corps à Corps, comme pour la manoeuvre Evaluer originale, jusqu'à un maximum de +6 (not cumulative with Attaque Prévisible).	Pas	Règle maison: Toute Défense Active, à +1 contre toutes les attaques de la cible.
+	Règle officielle: Comme ci-dessus, mais +1 par action jusqu'à un maximum de +3.		Règle officielle: Toute Défense Active. Même bonus contre les Feintes et Attaques Trompeuses de la cible.
+Concentrate	Prépare a spell ou special power for use	Pas	Toute Défense Active, but potentially lose concentration
+Specials			
+Ne Rien Faire	Ne rien faire	Aucun	Toute Défense Active
+Attendre	Attendre que quelque chose arrive, puis faire une manoeuvre Attaque Massive (Corps à Corps), Attaque Engagée (Committed Attack), Attaque, Attaque Défensive, ou Attaque Massive (à Distance), comme pour une Manoeuvre Déclenchée	Comme pour Manoeuvre Déclenchée
+			
+			
+Options d'Attaque			
+Ces effets peuvent être combinés si les Manoeuvres l'autorisent, excepté pour Attaque Rapide et Attaque à Deux Armes, qui sont mutuellement exclusives. Les Avantages "Maître d'Armes" (Weapon Master) et "Entraîné par un Maître" (Trained by a Master) divisent par 2 les pénalités pour Attaque Rapide et Attaque à Deux Armes.			
+			
+Options d'Attaque	Effet		
+Feinte	Au prix d'une Attaque, faites un test de compétence d'arme en opposition avec l'Adversaire : votre Marge de Succès est la pénalité aux Défenses Actives de votre Adversaire contre votre prochaine attaque;		
+	ou Au prix d'une Attaque, faites un test de compétence d'arme en opposition avec l'Adversaire : votre Marge de Succès est la pénalité à la prochaine attaque de votre Adversaire contre vous		
+Attaque Trompeuse	Pour chaque malus de -2 à votre Attaque au Corps à Corps, vous infligez un malus de -1 à l'une des Défense Actives de votre Adversaire contre cette Attaque;		
+	ou Pour chaque malus de -2 à votre Attaque à Distance, vous infligez un malus de -1 à l'Esquive de votre Adversaire contre cette Attaque;		
+Attaque Prévisible	Vous avez un bonus de +4 à votre Attaque au Corps à Corps, et votre adversaire a un bonus de +2 à toutes ses Défense Actives contre cette Attaque		
+Attaque Rapide	Une fois par tour, échangez une Attaque de Corps à Corps contre 2 Attaques de Corps à Corps avec un malus de -6		
+Attaque à Deux Armes	Echangez une Attaque de Corps à Corps ou avec un pistolet contre une attaque à -4 avec chacune des armes que vous portez en main		
+Attaque Supplémentaire	Effectuez une Attaque supplémentaire. Il vous faut un Avantage spécifique pour pouvoir le faire.		
+			
+Défense Actives			
+Normalement, seule 1 Défense Active peut être tentée contre une attaque. Plusieurs manoeuvres empêchent le Défenseur d'utiliser certaines Défense Actives. Toutes les Défense Active sont à -4 quand on est Etourdi. Utiliser plusieurs fois la même Défense Active pendant un même tour provoque des pénalités additionnelles, qui sont remises à zéro au début du prochain tour du personnage.			
+			
+Les Avantages "Maître d'Armes" (Weapon Master) et "Entraîné par un Maître" (Trained by a Master) divisent par 2 les pénalités des Parades / Blocages multiples. Les Armes d'Escrime, les armes à deux mains longues, et les compétences d'attaques sans armes (Boxe, Karate, Judo) divisent aussi par 2 les pénalités de Parades multiples. Ces effets sont cumulatifs ( réduisant les pénalités à -1 par Parade successive).			
+			
+Défense Actives	Effet		
+Parade	Une par bras. Peut seulement annuler les Attaques au Corps à Corps ou les Armes Lancées. Les parades successives ont un malus cumulatif de -4 par bras et par parade déjà effectuée.		
+Parade à deux armes	Requiert une arme dans chaque main, et empêche toute Défense Active avec ces membres pour le reste du tour. Faire une Parade à +2		
+Parade supportée	Supporte une Parade armée avec une main vide, et empêche toute Défense Active avec ces membres pour le reste du tour. Faire une Parade à +1		
+Blocage	Un par bras avec un bouclier. Peut annuler n'importe quelle attaque. Les blocages successifs ont une pénalité cumulative de -5 par blocage.		
+Esquive	Peut annuler n'importe quelle attaque. Pas de pénalité pour les Esquives successives.
+Esquive Acrobatique	Peut annuler n'importe quelle attaque. Une seule tentative par tour. Faire un jet d'Acrobaties; un succès donne +2 en Esquive, un échec -2.		
+			
+Reculer Options			
+Aucun personnage ne peut Reculer plus d'une fois par tour. Plusieurs manoeuvres et postures ne permettent pas de Reculer. Il est impossible de Reculer dans une zone encombrée.			
+			
+Reculer Options	Mouvement	Effet	
+Reculer	d'1 pas dans la direction directement opposée à l'Adversaire	+3 à Esquive, Parade d'Escrime, ou Parade Mobile Sans Arme contre les Attaques au Corps à Corps	
+		ou +1 au Blocage et à la Parade contre les Attaques au Corps à Corps	
+Plonger ou Tomber	Se retrouver couché à l'endroit actuel	+3 à Esquive contre les Attaques à Distance	
+		ou +2 à Esquive, Parade d'Escrime, ou Parade Mobile Sans Arme contre les Attaques au Corps à Corps	
+		ou +0 au Blocage et à la Parade contre les Attaques au Corps à Corps	
+Pas de côté	1 pas dans n'importe quelle direction excepté directement vers ou à l'opposé de l'Adversaire	+2 à Esquive, Parade d'Escrime, ou Parade Mobile Sans Arme contre les Attaques au Corps à Corps	
+		ou +0 au Blocage et à la Parade contre les Attaques au Corps à Corps	
+Pas en avant	1 pas directement vers l'Adversaire	+1 à Esquive, Parade d'Escrime, ou Parade Mobile Sans Arme contre les Attaques au Corps à Corps	
+		ou -1 au Blocage et à la Parade contre les Attaques au Corps à Corps	
+Interposition (Sacrificial Dodge)	1 pas entre un allié et un Adversaire	Faites un jet d'Esquive. Un Succès indique que l'attaque destinée à votre allié vous touche.	
+Parade basse	Pas de Déplacement	Compte comme une Parade pour les manoeuvres qui limitent les parades, et requiert au moins 2 jambes fonctionnelles. Faites une Parade contre une attaque en dessous de la ceinture.	
+			
+Lutte			
+Les luttes sont initiées par n'importe quelle Manoeuvre effectuée en Combat Rapproché (en partageant le même espace). Toute Défense Active réussie annule une tentative de Lutte. Les actions suivantes sont des Options d'Attaque une fois qu'une Lutte a été initiée.			
+			
+Action	Effet		
+Se Libérer	Après avoir été Pris à la Lutte, faites un Test Opposé Rapide de Force. Si vous gagnez, la Lutte se termine et vous pouvez faire un Pas dans n'importe quelle direction.		
+Prise de bras	Après une Parade de Judo ou avoir Saisi un bras, faites une Attaque avec Judo ou Lutte (Wrestle). Si vous réussissez, le bras de votre victime est bloqué. Pendant les tours suivants, faites des Test Opposés de Judo / Lutte (Wrestle) contre Judo / Lutte (Wrestle) ou Force (ST) en Action Gratuite, et infligez votre Marge de Succès en dégâts de Broyage au bras de votre victime.		
+Projection de Judo	Après une Parade de Judo ou une Lutte, faites une Attaque avec Judo. Si vous réussissez, l'adversaire est Couché sur le ventre et doit faire un test de Santé (HT) ou être Etourdi. Si vous faites votre Attaque avec un malus de -1, vous infligez des dégâts de Broyage égaux à votre Estoc (Thrust). Si l'adversaire est dans une Prise (Lock), infligez des dégâts de Broyage égaux à votre Taille (Swing) à la partie du corps ciblé par la Prise.		
+Etrangler 	Après avoir Saisi le cou, faites un Test Opposé Rapide de Force (ST) contre la Force (ST) ou la Santé (HT) de votre victime. En cas de succès, vous infligez des dégâts de Broyage égaux à votre Marge de Succès au cou de votre victime et l'étouffez - perte de 1 Point de Fatigue / FP par tour.		
+Prise d'Etranglement	Saisissez le Cou par derrière. A chaque tour suivant, faites un Test Opposé Rapide de Force (ST) +3 contre la Force (ST) ou la Santé (HT) de votre victime. En cas de succès, vous infligez autant de dégâts de Broyage ou de Fatigue au Cou de votre victime. Utiliser une arme donne un +1 (minimum) au Jet Opposé (et les épées infligent des dégâts tranchants).		
+Tordre le Cou ou Tordre un Membre	Après avoir Saisi le membre ou le cou de l'Adversaire, faites un Test Opposé Rapide de Force (ST) -4 contre la Force (ST) ou la Santé (HT) de votre victime. Si vous réussissez, vous infligez des dégâts de Broyage égaux à votre Taille (Swing) au membre ou au cou.		
+Mise à Terre	Après avoir Pris à la Lutte un Adversaire debout, After grappling a standing foe, faites un Test Opposé Rapide de Force (ST), Dextérité (DX) ou Compétence de Lutte (Grappling Skill) contre la Force (ST), Dextérité (DX) ou Compétence de Lutte (Grappling Skill) de l'Adversaire. Le perdant tombe ventre à terre et perd toute prise en cours.		
+Maintenir	Après avoir Pris à la Lutte le Torse d'un Adversaire couché, aites un Test Opposé de Force (ST). Si vous gagnez, votre Adversaire est maintenu au sol (pinned) et sans défense (helpless). Rien ne se passe sur une égalité ou un échec.		
+			
+Effort Supplémentaire			
+Optionnel ou non autorisé dans la plupart des parties. 1 Option d'Attaque et 1 Option de Défense peuvent être sélectionnés chaque tour.			
+			
+Options d'attaque	Manoeuvres autorisées	Effet	
+Déluge de Coups	Toutes celles autorisées avec Attaque Rapide	Dépenser 1 Point de Fatigue (FP) pour diviser par 2 les pénalités d'Attaque Rapide	
+Coup Puissant	Attaque	Dépenser 1 Point de Fatigue (FP) par attaque pour +2 aux dégâts	
+Pas de géant	Attaque ou Attaque Défensive	Dépenser 1 Point de Fatigue (FP) pour 1 Pas supplémentaire	
+Great Lunge	Attack, Attaque Engagée (Committed Attack), ou Attaque Mobile (Corps à Corps)	Dépenser 1 Point de Fatigue (FP) pour +1 en Allonge (et -2 aux dégâts sur les attaques de Taille / swing)	
+Charge Héroïque	Attaque Mobile (Corps à Corps)	Dépenser 1 Point de Fatigue (FP) pour un +4 au toucher et pas de Compétence Maximum à 9	
+Options de Défense	Manoeuvres autorisées	Effet	
+Défense Fiévreuse	Toutes sauf Attaque Massive	Dépenser 1 Point de Fatigue (FP) pour un +2 à 1 Défense Active	
+Récupération Rapide	N'importe quelle Attaque	Dépenser 1 Point de Fatigue (FP) pour faire revenir une arme U (déséquilibrée) à la position de garde;	
+		ou Dépenser 1 Point de Fatigue (FP) pour pouvoir faire une Parade tout en faisant une Attaque Mobile	
